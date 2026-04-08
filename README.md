@@ -53,6 +53,10 @@ flake8 focosimples/ tests/
 ```
 
 ---
+# Evidência de funcionamento:
+<img width="461" height="236" alt="evidencia-funcionamento" src="https://github.com/user-attachments/assets/f60dfd49-0656-449d-8bb9-1e64e9bcaaec" />
+
+---
 
 ## Informações
 
