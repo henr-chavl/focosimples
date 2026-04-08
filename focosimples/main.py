@@ -1,7 +1,6 @@
 import math
 
 def gerar_cronograma(horas_disponiveis, materias):
-    """Divide o tempo baseado na prioridade (1-5)."""
     if not materias:
         return []
     
